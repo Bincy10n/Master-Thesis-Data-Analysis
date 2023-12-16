@@ -28,8 +28,9 @@ The climate and tourism datasets, initially treated independently, were merged t
 
 ## Conclusion:
 
-In conclusion,this study has revealed the significant information that clarifies the relationship between Ireland’s climate and tourism from 2006 to 2019.A thorough analysis has shown that temperature has a significant impact on travel behavior.While discovered wind and rainfall have no significance relation on the tourism in Ireland.This study compares correlation strategies and identifies
-Spearman as the best option as compared to Pearson method, highlighting the importance of several methodologies in data analysis.Additionally, our findings revealed vacationers’ preference for the summer season.
+In conclusion,this study has revealed the significant information that clarifies the relationship between Ireland’s climate and tourism from 2006 to 2019.A thorough analysis has shown that temperature has a significant impact on travel behavior.While discovered wind and rainfall have no significance relation on the tourism in Ireland.A notable finding from the exploratory research was that temperature showed a positive association with passenger counts, indicating that warmer weather may draw in more travelers.In contrast, wind and precipitation showed a negative correlation with passenger counts, suggesting that larger wind speeds and more precipitation can discourage travelers.
+
+To summarize, Ireland is often seen as a cold nation that is not well-known for tourism in summer.As a result, we may deduce that climate change happened raises the temperature level, which may increase the number of passengers, particularly during the summer season.At the same time, we can see a negative influence of climate change on colder months, i.e., when the temperature drops, so does the number of passengers.Therefore,an increase in summer temperature could potentially boost the tourism and positively impact the Irish economy.
 
 ## Reference:
 
